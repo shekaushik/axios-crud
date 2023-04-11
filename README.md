@@ -13,9 +13,9 @@ personal information, including their name, email address, and contact number. I
 
 ## Technologies Used
 
--React.js
--Axios
--HTML/CSS
+- React.js
+- Axios
+- HTML/CSS
 
 ## Conclusion
 
