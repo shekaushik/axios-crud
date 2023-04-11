@@ -17,6 +17,9 @@ personal information, including their name, email address, and contact number. I
 - Axios
 - HTML/CSS
 
+<img width="934" alt="image" src="/ss.png">
+
+
 ## Conclusion
 
 This project is a great way to get started with APIs using React.js and learn how to build simple web application that can store and manage data.
