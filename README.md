@@ -7,7 +7,7 @@ personal information, including their name, email address, and contact number. I
 ## Features
 
 - Create,update and delete personal information
-- Easy-to-use interface for manageing date
+- Easy-to-use interface for managing date
 - Use React hooks for state management
 - Use Axios for data retrieval and management
 
